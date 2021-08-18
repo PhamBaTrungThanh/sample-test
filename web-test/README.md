@@ -21,7 +21,8 @@ Recreate the following reference image in HTML and CSS using a templating librar
 
 - **You must use Laravel to code**
 - Feel free to use any Javascript and CSS framework as you like.
-  ![Forum Design](dumo-forum.png)
+
+![Forum Design](dumo-forum.png)
 
 ---
 
