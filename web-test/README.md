@@ -9,8 +9,8 @@ Recreate the following reference image in HTML and CSS using a templating librar
 ## **Requirements**
 
 > - You can use any markup, styles and layout method necessary, but you must use these JSON files as your data source:
->   - [authors](json/authors.json)
->   - [posts](json/posts.json)
+>   - [authors](https://phambatrungthanh.github.io/sample-test/web-test/json/authors.json)
+>   - [posts](https://phambatrungthanh.github.io/sample-test/web-test/json/posts.json)
 > - You must use a template library. Either a standalone library or one that is a part of a framework.
 > - Links do not have to function at all. Any links in the image are for display only.
 > - Don't worry about browser support. If it can run on the latest version of Google Chrome, it's fine.
